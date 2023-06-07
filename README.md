@@ -74,7 +74,7 @@ Note that after backspacing an empty text, the text will continue empty.<br>
 **Question 8**<br>
 You are given an array coordinates, coordinates[i] = [x, y], where [x, y] represents the coordinate of a point. Check if these points make a straight line in the XY plane.<br>
 **Example 1:**<br>
-![ex1]()<br>
+![ex1](https://github.com/Srijana1425/String_Assignment7/blob/main/img/ex1.png)<br>
 **Input:** coordinates = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]<br>
 **Output:** true<br><br>
 
