@@ -8,7 +8,7 @@ All occurrences of a character must be replaced with another character while pre
 **Output:** true<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans1.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans1.js)<br>
 *******************************************************************************************************************************************************
 **Question 2**<br>
 Given a string num which represents an integer, return true *if* num *is a **strobogrammatic number***.
@@ -18,7 +18,7 @@ A **strobogrammatic number** is a number that looks the same when rotated 180 de
 **Output:** true<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans2.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans2.js)<br>
 *******************************************************************************************************************************************************
 **Question 3**<br>
 Given two non-negative integers, num1 and num2 represented as string, return *the sum of* num1 *and* num2 *as a string*.
@@ -28,7 +28,7 @@ You must solve the problem without using any built-in library for handling large
 **Output:** "134"<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans3.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans3.js)<br>
 *******************************************************************************************************************************************************
 **Question 4**<br>
 Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.<br>
@@ -37,7 +37,7 @@ Given a string s, reverse the order of characters in each word within a sentence
 **Output:** "s'teL ekat edoCteeL tsetnoc"<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans4.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans4.js)<br>
 *******************************************************************************************************************************************************
 **Question 5**<br>
 Given a string s and an integer k, reverse the first k characters for every 2k characters counting from the start of the string.
@@ -47,7 +47,7 @@ If there are fewer than k characters left, reverse all of them. If there are les
 **Output:** "bacdfeg"<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans5.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans5.js)<br>
 *******************************************************************************************************************************************************
 **Question 6**<br>
 Given two strings s and goal, return true *if and only if* s *can become* goal *after some number of **shifts** on* s.
@@ -58,7 +58,7 @@ A **shift** on s consists of moving the leftmost character of s to the rightmost
 **Output:** true<br><br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans6.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans6.js)<br>
 *******************************************************************************************************************************************************
 **Question 7**<br>
 Given two strings s and t, return true *if they are equal when both are typed into empty text editors*. '#' means a backspace character.
@@ -69,7 +69,7 @@ Note that after backspacing an empty text, the text will continue empty.<br>
 **Explanation:** Both s and t become "ac".<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans7.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans7.js)<br>
 *******************************************************************************************************************************************************
 **Question 8**<br>
 You are given an array coordinates, coordinates[i] = [x, y], where [x, y] represents the coordinate of a point. Check if these points make a straight line in the XY plane.<br>
@@ -79,4 +79,4 @@ You are given an array coordinates, coordinates[i] = [x, y], where [x, y] repres
 **Output:** true<br><br>
 
 *Answer*<br>
-**Code**[Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans8.js)<br>
+**Code** [Link](https://github.com/Srijana1425/String_Assignment7/blob/main/ans8.js)<br>
