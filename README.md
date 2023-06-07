@@ -14,7 +14,7 @@ All occurrences of a character must be replaced with another character while pre
 Given a string num which represents an integer, return true *if* num *is a **strobogrammatic number***.
 A **strobogrammatic number** is a number that looks the same when rotated 180 degrees (looked at upside down).<br>
 **Example 1:**<br>
-**Input:** num = "69"
+**Input:** num = "69"<br>
 **Output:** true<br><br>
 
 *Answer*<br>
